@@ -19,4 +19,9 @@ This repository contains links to all my blog posts on various online data scien
 
 7. [The fundamentals of transfer learning]()
 
-8. []()
+8. [The story of data science]()
+
+9. [Analysing COVID-19 spread]()
+
+
+
