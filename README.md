@@ -11,17 +11,19 @@ This repository contains links to all my blog posts on various online data scien
 
 3. [Logistic Regression in Python](https://medium.com/@anishsingh20/logistic-regression-in-python-423c8d32838b)
 
-4. [Implementing Deep learning in R using Keras and Tensorflow]()
+4. [Implementing Deep learning in R using Keras and Tensorflow](https://towardsdatascience.com/how-to-implement-deep-learning-in-r-using-keras-and-tensorflow-82d135ae4889)
 
-5. [My journey into data science]()
+5. [My journey into data science](https://towardsdatascience.com/the-best-data-science-learning-resources-out-there-and-my-journey-into-data-science-81c5a6ec67bc)
 
-6. [Getting started with ML and Data science]()
+6. [Getting started with ML and Data science](https://medium.com/@anishsingh20/getting-started-with-machine-learning-basics-supervised-unsupervised-and-reinforcement-learning-b7ca85c28d91)
 
-7. [The fundamentals of transfer learning]()
+7. [The fundamentals of transfer learning](https://medium.com/@anishsingh20/the-fundamentals-of-transfer-learning-2e9dcf2940ed)
 
-8. [The story of data science]()
+8. [The story of data science](https://medium.com/@anishsingh20/the-story-of-data-science-89f39983ef41)
 
-9. [Analysing COVID-19 spread]()
+9. [Analysing COVID-19 spread](https://medium.com/datadriveninvestor/analysing-covid-19-spread-f033173a80e8)
+
+10. [Generative Models and GANs](https://towardsdatascience.com/generative-models-and-gans-fe7efc20020b)
 
 
 
