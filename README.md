@@ -50,5 +50,5 @@ This repository contains links to all my blog posts on various online data scien
 10. [Analysing Obesity in USA.](https://datascienceplus.com/analyzing-obesity-across-usa/)
 
 
-## R Publications
+## [R Publications](https://rpubs.com/anish20)
 
