@@ -3,7 +3,7 @@
 This repository contains links to all my blog posts on various online data science publications.
 
 
-## Medium 
+## [Medium ](https://medium.com/@anishsingh20)
 
 1. [Activation functions and its types used in Neural Nets](https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
 
@@ -26,4 +26,5 @@ This repository contains links to all my blog posts on various online data scien
 10. [Generative Models and GANs](https://towardsdatascience.com/generative-models-and-gans-fe7efc20020b)
 
 
+## [DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)
 
