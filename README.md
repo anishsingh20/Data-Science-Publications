@@ -41,13 +41,13 @@ This repository contains links to all my blog posts on various online data scien
 
 6.  [Making a Shiny Dashboard using Highcharter.](https://datascienceplus.com/making-a-shiny-dashboard-using-highcharter-analyzing-inflation-rates/)
 
-7.  [Support Vector Classifier and Radial Kernel techniques.]()
+7.  [Support Vector Classifier and Radial Kernel techniques.](https://datascienceplus.com/radial-kernel-support-vector-classifier/)
 
-8.  [Text message Classification.]()
+8.  [Text message Classification.](https://datascienceplus.com/text-message-classification/)
 
-9.  [Kaggle data science survey data analysis using Highcharter.]()
+9.  [Kaggle data science survey data analysis using Highcharter.](https://datascienceplus.com/kaggle-data-science-survey-data-analysis-using-highcharter/)
 
-10. [Analysing Obesity in USA.]()
+10. [Analysing Obesity in USA.](https://datascienceplus.com/analyzing-obesity-across-usa/)
 
 
 
