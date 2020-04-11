@@ -26,5 +26,18 @@ This repository contains links to all my blog posts on various online data scien
 10. [Generative Models and GANs](https://towardsdatascience.com/generative-models-and-gans-fe7efc20020b)
 
 
+
 ## [DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)
+
+1. Random Forests in R.
+
+2. Cubic and Smoothing Splines in R
+
+3. Gradient Boosting in R
+
+4. What are Generalized Additive Models
+
+5. PCA and Unsupervised learning in R.
+
+
 
