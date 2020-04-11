@@ -39,5 +39,15 @@ This repository contains links to all my blog posts on various online data scien
 
 5. PCA and Unsupervised learning in R.
 
+6. Making a Shiny Dashboard using Highcharter.
+
+7. Support Vector Classifier and Radial Kernel techniques.
+
+8 . Text message Classification.
+
+9. Kaggle data science survey data analysis using Highcharter.
+
+10. Analysing Obesity in USA.
+
 
 
