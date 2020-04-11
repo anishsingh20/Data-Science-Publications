@@ -29,9 +29,9 @@ This repository contains links to all my blog posts on various online data scien
 
 ## [DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)
 
-1. Random Forests in R.
+1. [Random Forests in R.](https://datascienceplus.com/random-forests-in-r/)
 
-2. Cubic and Smoothing Splines in R
+2. [Cubic and Smoothing Splines in R](https://datascienceplus.com/cubic-and-smoothing-splines-in-r/)
 
 3. Gradient Boosting in R
 
