@@ -29,25 +29,25 @@ This repository contains links to all my blog posts on various online data scien
 
 ## [DataSciencePlus](https://datascienceplus.com/author/anish-singh-walia/)
 
-1. [Random Forests in R.](https://datascienceplus.com/random-forests-in-r/)
+1.  [Random Forests in R.](https://datascienceplus.com/random-forests-in-r/)
 
-2. [Cubic and Smoothing Splines in R](https://datascienceplus.com/cubic-and-smoothing-splines-in-r/)
+2.  [Cubic and Smoothing Splines in R](https://datascienceplus.com/cubic-and-smoothing-splines-in-r/)
 
-3. [Gradient Boosting in R](https://datascienceplus.com/gradient-boosting-in-r/)
+3.  [Gradient Boosting in R](https://datascienceplus.com/gradient-boosting-in-r/)
 
-4. [What are Generalized Additive Models]()
+4.  [What are Generalized Additive Models](https://datascienceplus.com/generalized-additive-models/)
 
-5. [PCA and Unsupervised learning in R.]()
+5.  [PCA and Unsupervised learning in R.](https://datascienceplus.com/principal-component-analysis-unsupervised-learning/)
 
-6. [Making a Shiny Dashboard using Highcharter.]()
+6.  [Making a Shiny Dashboard using Highcharter.](https://datascienceplus.com/making-a-shiny-dashboard-using-highcharter-analyzing-inflation-rates/)
 
-7. [Support Vector Classifier and Radial Kernel techniques.]()
+7.  [Support Vector Classifier and Radial Kernel techniques.]()
 
-8. [Text message Classification.]()
+8.  [Text message Classification.]()
 
-9. [Kaggle data science survey data analysis using Highcharter.]()
+9.  [Kaggle data science survey data analysis using Highcharter.]()
 
-10.[Analysing Obesity in USA.]()
+10. [Analysing Obesity in USA.]()
 
 
 
